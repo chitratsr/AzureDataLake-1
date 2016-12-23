@@ -6,5 +6,5 @@
 Once Data Lake Tools for Visual Studio is installed, you will see a "Data Lake Analytics" node in Server Explorer under the "Azure" node (you can open Server explorer by pressing Ctrl+Alt+S).
 * Data Lake Analytics account and sample data The Data Lake Tools don't support creating Data Lake Analytics accounts. You can create an account using the Azure portal, Azure PowerShell, .NET SDK or Azure CLI. For your convenience, a PowerShell script for creating a Data Lake Analytics service and uploading the source data file can be found in Appx-A PowerShell sample for preparing the tutorial https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-data-lake-tools-get-started#appx-a-powershell-sample-for-preparing-the-tutorial.
 Optionally, you can go through the following two sections in Get Started with Azure Data Lake Analytics using Azure portal to create your account and upload data by hand:
-1.Create an Azure Data Lake Analytics account.
-2.Upload SearchLog.tsv to the default Data Lake Storage account.
+**1.Create an Azure Data Lake Analytics account.
+**2.Upload SearchLog.tsv to the default Data Lake Storage account.
