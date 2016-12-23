@@ -8,6 +8,6 @@
 
 Optionally, you can go through the following two sections in Get Started with Azure Data Lake Analytics using Azure portal to create your account and upload data by hand:
 
-1.Create an Azure Data Lake Analytics account.
+1. Create an Azure Data Lake Analytics account.
 
-2.Upload SearchLog.tsv to the default Data Lake Storage account.
+2. Upload SearchLog.tsv to the default Data Lake Storage account.
