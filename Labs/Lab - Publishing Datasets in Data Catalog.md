@@ -13,3 +13,6 @@ By the end of this lab, you will be able to:
 For this lab you will need:
 * Access to an Azure Data Lake Store account
 * Access to an Azure Data Catalog instance (one is available for all Microsoft Employees)
+
+## Class
+## Exercise 1: Browse the Azure Data Catalog and look for data stored in Azure Data Lake Store
