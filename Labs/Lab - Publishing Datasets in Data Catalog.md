@@ -8,5 +8,5 @@ By the end of this lab, you will be able to:
 * Register your own assets into the Azure Data Catalog
 ## Prerequisites
 For this lab you will need:
-* •	Access to an Azure Data Lake Store account
-* •	Access to an Azure Data Catalog instance (one is available for all Microsoft Employees)
+* Access to an Azure Data Lake Store account
+* Access to an Azure Data Catalog instance (one is available for all Microsoft Employees)
