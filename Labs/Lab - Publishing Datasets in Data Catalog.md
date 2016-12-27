@@ -38,3 +38,14 @@ In this exercise, you will register your own data set into the Azure Data Catalo
 5)	Click Azure Data Lake
 
 6)	Type in the name of an ADLS account you have access to
+
+7)	Browse to your data set using the navigation tree
+
+8)	Double click on the data to add to the list of objects to be registered
+
+9)	Fill in any metadata about the objects
+
+a.	It’s important to provide tags or an expert so other people trying to discover data will know who to consult.
+
+10)	Click Register
+
