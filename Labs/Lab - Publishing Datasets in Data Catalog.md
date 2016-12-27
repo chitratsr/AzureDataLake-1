@@ -23,3 +23,5 @@ In this exercise, you will explore the Azure Data Catalog to discover data sourc
 2)	After signing in, you should be able to see the below page:
 
 3)	Search the Data Catalog. Select Azure Data Lake Store in the filter ‘Source Type’
+
+## Exercise 2: Register a data set you’re working with in the Azure Data Catalog
