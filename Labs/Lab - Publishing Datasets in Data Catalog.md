@@ -34,3 +34,7 @@ In this exercise, you will register your own data set into the Azure Data Catalo
 3)	Click on “Launch Application” to download and run the Click-once desktop application for Azure Data Catalog
 
 4)	Sign-in when the application launches. You will see the below window.
+
+5)	Click Azure Data Lake
+
+6)	Type in the name of an ADLS account you have access to
