@@ -16,6 +16,7 @@ For this lab you will need:
 
 ## Class
 ## Exercise 1: Browse the Azure Data Catalog and look for data stored in Azure Data Lake Store
-In this exercise, you will explore the Azure Data Catalog to discover data sources related to Azure Data Lake Store. 
+In this exercise, you will explore the Azure Data Catalog to discover data sources related to Azure Data Lake Store.
+
 1)	Go to the Azure Data Catalog portal: www.azuredatacatalog.com
 2)	After signing in, you should be able to see the below page:
