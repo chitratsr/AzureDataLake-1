@@ -34,5 +34,5 @@ The goal of this course is to cover the following modules, although some of the 
 
 ## Structure of this Repository Site
 *  Labs - hands-on exercises
-*  Decks - classroom slides
+*  Slides - classroom slides
 *  Code - scripts
