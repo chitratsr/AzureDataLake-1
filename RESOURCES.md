@@ -5,6 +5,12 @@
 * [Interactive Tutorial: Analyse website logs] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-use-interactive-tutorials)
 * [Azure Portal] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-portal)
 * [PowerShell] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-powershell)
+* [.NET SDK] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-net-sdk)
+* [Java SDK] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-java-sdk)
+* [Visual Studio] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-data-lake-tools-get-started)
+* [Azure CLI] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-cli)
+* [REST API] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-rest-api)
+* [Python] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-python)
 
 ### Data Lake Store Videos
 * [Create an Azure Data Lake Store Account] (https://mix.office.com/watch/1k1cycy4l4gen)
