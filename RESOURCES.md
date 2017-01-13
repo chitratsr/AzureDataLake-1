@@ -1,4 +1,4 @@
-## Resources on Data Lake Analytics And Store
+## Resources on Data Lake Analytics and Store
 
 ### Data Lake Analytics
 
