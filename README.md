@@ -10,11 +10,17 @@ We recommend cloning this repository onto your local computer with a git-based p
 
 ## Microsoft's Azure Data Lake Analytics Components Covered
 
-*Azure Data Lake Fundamentals*
+The goal of this course is to cover the following modules, although some of the latter modules may be replaced by a hackathon.
 
-*U-SQL*
-
-*Diagnostics*
+1. Introduction to Azure Data Lake
+2. Data Factory Introduction & Data Ingestion
+3. Introduction to U-SQL Programming
+4. Data Processing with U-SQL
+5. Data Movement to SQLDW & Creating Pipelines
+6. Consuming ADLS datasets in Power BI
+7. Operating Data Lake SDKs & CLIs
+8. Data Virtualization
+9. Publishing Datasets in Azure Data Catalog
 
 **For Instructor-Led:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
