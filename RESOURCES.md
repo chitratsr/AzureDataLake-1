@@ -15,7 +15,7 @@
 ### Data Lake Store Videos
 * [Create an Azure Data Lake Store Account] (https://mix.office.com/watch/1k1cycy4l4gen)
 * [Use the Data Explorer to Manage Data in Azure Data Lake Store] (https://mix.office.com/watch/icletrxrh6pc)
-* [Connect Azure Data Lake Analytics to Azure Data Lake Store] (https://mix.office.com/watch/icletrxrh6pc)
+* [Connect Azure Data Lake Analytics to Azure Data Lake Store] (https://mix.office.com/watch/qwji0dc9rx9k)
 * [Access Azure Data Lake Store via Data Lake Analytics] (https://mix.office.com/watch/1n0s45up381a8)
 * [Connect Azure HDInsight to Azure Data Lake Store] (https://mix.office.com/watch/l93xri2yhtp2)
 * [Access Azure Data Lake Store via Hive and Pig] (https://mix.office.com/watch/1n9g5w0fiqv1q)
