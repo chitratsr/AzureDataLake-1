@@ -4,6 +4,7 @@
 
 * [Interactive Tutorial: Analyse website logs] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-use-interactive-tutorials)
 * [Azure Portal] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-portal)
+* [PowerShell] (https://docs.microsoft.com/en-in/azure/data-lake-analytics/data-lake-analytics-get-started-powershell)
 
 ### Data Lake Store Videos
 * [Create an Azure Data Lake Store Account]
